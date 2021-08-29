@@ -10,6 +10,7 @@ Guess what?
 You're lucky! You found someone who wants to help you!
 They are asking for your source code. Are they:
 
+
    **a)** a person who wants to steal your work
    
    **b)** a person wants to steal your ideas
@@ -17,6 +18,7 @@ They are asking for your source code. Are they:
    **c)** a corporation too cheap to hire developers
    
    **d)** a person who wants to publicly shame your code style
+   
 
 If you picked any of those options, you are most likely wrong!
 Nobody wants to steal your low quality, spaghetti-style, buggy and broken source code.
