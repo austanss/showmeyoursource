@@ -23,6 +23,6 @@ Nobody wants to steal your low quality, spaghetti-style, buggy and broken source
 Why would they want to steal broken code?
 You are trying to fix an issue, an issue that they do not want to have.
 
-## So pony up that source code.
+### So pony up that source code.
 
 It'll help you, and the person trying to help you, a million.
